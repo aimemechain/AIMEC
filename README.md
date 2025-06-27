@@ -1,4 +1,8 @@
 # AIMEC
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aimemechain/LOGO/main/aimemechain_logo_300.jpg" alt="AIMEC Logo" width="220"/>
+</p>
+
 # 🤖 AIMEC Token — AI Meme Art Chain
 
 This repository contains the official security and documentation files for **AIMEC**, the AI Meme Art Chain token. All contents here are verified and referenced by exchanges, token scanners, and airdrop platforms.

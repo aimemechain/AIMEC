@@ -33,6 +33,7 @@ This repository contains the official security and documentation files for **AIM
 | ✅ Whitepaper                                       | [AIMEMECHAIN_Whitepaper.pdf](AIMEMECHAIN_Whitepaper.pdf)             |
 | ✅ Project Overview                                 | [Project_AIMEMECHAIN.pdf](Project_AIMEMECHAIN.pdf)                   |
 | ✅ Security Statement for GoPlus                    | [AIMEC_Security_Statement-for-GoPlus_Security.pdf](AIMEC_Security_Statement-for-GoPlus_Security.pdf) |
+| ✅ Whitelist Function Clarification                 | [AIMEC_Whitelist_Disabled.pdf](AIMEC_Whitelist_Disabled.pdf)         |
 | 🔒 Proof of Lock (1)                                | [AIMEC_TOKEN_PROOF_OF_LOCK.pdf](AIMEC_TOKEN_PROOF_OF_LOCK.pdf)       |
 | 📊 Circulating Supply (JSON)                        | [aimec_circulating.json](aimec_circulating.json)                     |
 
